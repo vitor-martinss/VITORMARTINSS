@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [vitormartinsweb.com](vitormartinsweb.com)
 
-- 💬 Ask me about **html, css, javascript, jquery, vue**
+- 💬 Ask me about **html, css, javascript, jquery and skateboarding**
 
 - 📫 How to reach me **vitormartinsweb@gmail.com**
 
