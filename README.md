@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vitor Martins</h1>
-<h3 align="center">A passionate frontend developer from Brazil based in Lisbon - Portugal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitor-martinss&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-martinss" /> </p>
+<h1 align="left">Hi, I'm Vitor Martins</h1>
+<h3 align="left">A passionate front-end developer from Brazil based in Lisbon - Portugal</h3>
 
 - 🌱 I’m currently learning **React, React-Native, Typescript**
 
-- 👨‍💻 All of my projects are available at [vitormartinsweb.com](vitormartinsweb.com)
+ <!-- - 👨‍💻 All of my projects are available at [vitor-martins.com](vitor-martins.com) -->
 
-- 💬 Ask me about **html, css, javascript, jquery and skateboarding**
+- 💬 Ask me about **front-end development and skateboarding**
 
-- 📫 How to reach me **vitormartinsweb@gmail.com**
+- 📫 How to reach me **dev@vitor-martins.com**
 
 - ⚡ When I´m not coding **I´m skating**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitor-martinss&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-martinss" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
