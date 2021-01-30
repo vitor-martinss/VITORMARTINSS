@@ -25,7 +25,7 @@
 
 <p align="left">
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-martinss&show_icons=true&locale=en&layout=compact" alt="vitor-martinss" width="420" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-martinss&show_icons=true&locale=en&layout=compact" alt="vitor-martinss" width="400" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitor-martinss&show_icons=true&locale=en" alt="vitor-martinss" height="165"/>
 </p>
 
