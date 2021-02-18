@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **front-end development and skateboarding**
 
-- 📫 How to reach me **dev@vitor-martins.com**
+- 📫 How to reach me **vitormartinsweb@gmail.com**
 
 - ⚡ When I´m not coding **I´m skating**
 
