@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Vitor Martins</h1>
 <h3 align="left">A passionate front-end developer from Brazil based in Lisbon - Portugal</h3>
 
-- 🌱 Not afraid of challenges, always willingto learn! I’m currently learning **WebGL, Three.js**
+- 🌱 Not afraid of challenges, always willing to learn! I’m currently learning **WebGL, Three.js**
 
  <!-- - 👨‍💻 All of my projects are available at [vitor-martins.com](vitor-martins.com) -->
 
